@@ -1,3 +1,10 @@
 **/.project
 **/.dbeaver
+**/.classpath
+**/.settings
+**/.mvn
+**/mvnw*
+**/target
+**/bin
 design
+**/.DS_Store
